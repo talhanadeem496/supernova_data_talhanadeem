@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:supernova_data_talhanadeem}/wiki_analytics/db.sqlite3",
+            "name": "/home/talha496/Documents/Projects/data/supernova/supernova_data_talhanadeem/wiki_analytics/db.sqlite3"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
